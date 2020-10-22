@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+<!-- Default Suite -->
+<test name="untitled5_1"><classes><class name="TaskTest"/></classes></test>
+<!-- untitled5_1 -->
+</suite
